@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Martial Arts Rocks"
+    url: /martial-arts-rocks/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
