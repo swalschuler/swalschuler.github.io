@@ -50,7 +50,7 @@ feature_row2:
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
-last_modified_at: 2019-03-09T20:23:03-05:00
+last_modified_at: 2019-03-10T20:23:03-05:00
 toc: false
 ---
 
@@ -61,12 +61,39 @@ toc: false
 ## Our Story
 In 2011, the Alschuler family saw that there was a lack of resources available to young adults with special needs. In response to this, they started a free bag class where people could come to learn martial arts and social skills. Grand Master Tom Bloom, who the Alschulers have now been training with for over 20 years, graciouslly offered his studio to Martial Arts Rocks, and classes began meeting regularly.
 
-## Why Karate?
-Martial arts can provide the perfect environment for those with special needs to thrive.
-
 ## The People
+Martial Arts Rocks is run by the Alschulers:
+
+* Master Natt Alschuler
+  - Lead Instructor 
+  - Fifth Degree Black Belt Tang Soo Do
+* Lynne Alschuler
+  - Logistics Coordinator
+  - Drove the Alschulers to all of their lessons for over 15 years!
+* Master Austin Alschuler
+  - Community Outreach Manager
+  - Co-Instructor
+  - Fourth Degree Black Belt Tang Soo Do
+* Master Kayla Alschuler
+  - Co-Instructor
+  - Fourth Degree Black Belt Tang Soo Do
+* Schuyler Alschuler
+  - Web Master
+  - PR Manager
+  - Co-Instructor
+  - Third Degree Black Belt Tang Soo Do
+
+Martial Arts Rocks is made possible by:
+* [Grand Master Tom Bloom](http://www.tombloommartialarts.com/gm-tom-bloom.html)
+  - Ninth Degree Black Belt Tang Soo Do
+  - Eighth Degree Black Belt Kang Duk Won
+  - Eighth Degree Black Belt Hapkido
+  - Ninth Degree Black Belt Tae Kwon Do
+  - Three time world karate champion
 
 
+<!---
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" %}
+--->
