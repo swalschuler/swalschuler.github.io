@@ -59,7 +59,7 @@ toc: false
 {% include gallery id="martial_arts_rocks_gallery" %}
 
 ## Our Story
-In 2011, the Alschuler family saw that there was a lack of resources available to young adults with special needs. In response to this, they started a free bag class where people could come to learn martial arts and social skills. Grand Master Tom Bloom, who the Alschulers have now been training with for over 20 years, graciouslly offered his studio to Martial Arts Rocks, and classes began meeting regularly.
+In 2011, the Alschuler family saw that there was a lack of resources available to young adults with special needs. In response to this, they started a free bag class where people could come to learn martial arts and social skills. Grand Master Tom Bloom, who the Alschulers have now been training with for over 20 years, graciously offered his studio to Martial Arts Rocks, and classes began meeting regularly.
 
 ## The People
 Martial Arts Rocks is run by the Alschulers:
