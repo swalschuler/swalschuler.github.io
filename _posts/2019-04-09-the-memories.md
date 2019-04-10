@@ -15,6 +15,6 @@ In the flames they rose
 </pre>
 
 <figure>
-  <img src="../assets/images/memories.jpg">
+  <a href="/assets/images/memories.jpg"><img src="/assets/images/memories.jpg"></a>
   <figcaption>Memories</figcaption>
 </figure>
