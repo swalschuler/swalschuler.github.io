@@ -16,5 +16,5 @@ In the flames they rose
 
 <figure>
   <img src="../assets/images/memories.jpg">
-  <figcaption>Memories</figure>
+  <figcaption>Memories</figcaption>
 </figure>
