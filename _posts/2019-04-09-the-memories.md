@@ -13,8 +13,3 @@ In the flames they rose
     new heights they now ascend --
     upon our shoulders how they press.
 </pre>
-
-<figure>
-  <a href="/assets/images/memories.jpg"><img src="/assets/images/memories.jpg"></a>
-  <figcaption>Memories</figcaption>
-</figure>
