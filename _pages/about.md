@@ -16,7 +16,7 @@ last_modified_at: 2019-03-09T20:23:03-05:00
 toc: false
 ---
 
-I am Schuyler Alschuler, an educator and maker from Southern California. I studied computer science and education at UC Davis, and now I am in Cal's Berkeley Educators for Equity and Excellence ([BE3](https://gse.berkeley.edu/professional-programs/teacher-preparation/be3)) program. My focus in the classroom is on students, and I am always trying to find the humanity in mathematics.
+I am Schuyler Alschuler, an educator and maker from Southern California. I studied computer science and education at UC Davis, and recently completed Cal's Berkeley Educators for Equity and Excellence ([BE3](https://gse.berkeley.edu/professional-programs/teacher-preparation/be3)) program. My focus in the classroom is on students, and I am always trying to find the humanity in mathematics.
 
 Outside of the classroom, you might find me playing the guitar, skating, or messing around with electronic bits.
 
